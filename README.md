@@ -1,4 +1,7 @@
-efficientnetb0~b8
+一个看上去简洁直观的版本
+
+含 efficientnet b0~b8
+
 
 install tensorflow==2.0
 
