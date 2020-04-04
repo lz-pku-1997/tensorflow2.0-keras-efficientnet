@@ -1,4 +1,4 @@
-efficientnet b0~b8(keras)
+efficientnet b0~b8(tf.keras)
 
 pip install tensorflow==2.0
 
